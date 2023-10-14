@@ -1,7 +1,7 @@
-**windows/** linguist-vendored
-**linux/** linguist-vendored
-**macos/** linguist-vendored
-**android/** linguist-vendored
-**ios/** linguist-vendored
-**web/** linguist-vendored
-**assets/** linguist-vendored
+fluster_rust/windows/** linguist-vendored
+fluster_rust/linux/** linguist-vendored
+fluster_rust/macos/** linguist-vendored
+fluster_rust/android/** linguist-vendored
+fluster_rust/ios/** linguist-vendored
+fluster_rust/web/** linguist-vendored
+fluster_rust/assets/** linguist-vendored
