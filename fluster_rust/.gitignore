@@ -110,3 +110,10 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+
+# Rust related
+.cargo/
+target/
+
+# Generated messages
+*/**/messages/
