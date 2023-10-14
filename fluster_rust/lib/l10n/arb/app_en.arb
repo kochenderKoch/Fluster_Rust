@@ -1,0 +1,21 @@
+{
+    "@@locale": "en",
+    "hello": "Hello {userName}",
+    "@hello": {
+    "description": "A welcome message with a single parameter",
+    "placeholders": {
+        "userName": {
+        "type": "String",
+        "example": "Bob"
+        }
+    }
+    },
+    "@_CORE": {
+    },
+    "title": "Flutter Rust",
+    "emptyField": "The field must not be empty",
+    "@_NAVIGATION":{
+    },
+    "home": "Home",
+    "settings": "Settings"
+}

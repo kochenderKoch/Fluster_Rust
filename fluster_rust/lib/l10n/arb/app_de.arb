@@ -1,0 +1,21 @@
+{
+    "@@locale": "de",
+    "hello": "Hallo {userName}",
+    "@hello": {
+    "description": "Eine Willkommensnachricht mit einem Parameter",
+    "placeholders": {
+        "userName": {
+        "type": "String",
+        "example": "Alice"
+        }
+    }
+    },
+    "@_CORE": {
+    },
+    "title": "Flutter Rust",
+    "emptyField": "Das Feld darf nicht leer sein",
+    "@_NAVIGATION":{
+    },
+    "home": "Startseite",
+    "settings": "Einstellungen"
+}
