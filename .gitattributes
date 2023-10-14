@@ -5,3 +5,4 @@ fluster_rust/android/** linguist-vendored
 fluster_rust/ios/** linguist-vendored
 fluster_rust/web/** linguist-vendored
 fluster_rust/assets/** linguist-vendored
+fluster_rust/native/hub/src/bridge/bridge_engine/dart_api/** linguist-vendored
